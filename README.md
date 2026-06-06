@@ -1,18 +1,295 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>I’m Manoj, a developer who enjoys building real-world tech solutions that combine software, AI, and innovation. I’m deeply interested in backend development, intelligent systems, and creating projects that solve practical problems rather than just tutorial-based applications.<br><br>Over time, I’ve worked on projects involving AI, IoT, automation, agriculture tech, and assistive technology — including systems like a Smart Cane for visually impaired individuals and Krishi Sakhi, an AI-powered agriculture assistant.<br><br>Currently, I’m focused on strengthening my skills in:<br>- Backend Development<br>- Django & FastAPI<br>- Machine Learning<br>- APIs & System Design<br>- Real-world Full Stack Applications<br><br>I enjoy participating in hackathons, experimenting with new technologies, and turning ideas into working prototypes quickly.<br><br>My goal is to become a strong software engineer capable of building impactful and scalable products.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:0F172A,100:38BDF8&text=Manoj%20Kumar%20C&fontColor=F8FAFC&fontSize=58&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20Builder%20%7C%20Real-World%20Problem%20Solver&descSize=18&descAlignY=58&animation=fadeIn" alt="Header banner" />
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Formalfuss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kumar-c-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojkchandrashekar@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+backend-heavy+products+with+AI+inside.;Django+%2B+FastAPI+%2B+APIs+%2B+ML+workflows.;Hackathon+speed.+Engineering+depth.+Real-world+impact.;Agriculture+tech.+Assistive+tech.+Automation." alt="Typing animation" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=flat&logo=openapiinitiative&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ManojKumarC0112&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ManojKumarC0112&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ManojKumarC0112&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br>
+
+<a href="mailto:manojkchandrashekar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-manojkchandrashekar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/manoj-kumar-c-">
+  <img src="https://img.shields.io/badge/LinkedIn-Manoj%20Kumar%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/ManojKumarC0112">
+  <img src="https://img.shields.io/badge/GitHub-ManojKumarC0112-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://instagram.com/Formalfuss">
+  <img src="https://img.shields.io/badge/Instagram-Formalfuss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ManojKumarC0112&style=for-the-badge&color=38BDF8" alt="Profile views" />
+<img src="https://img.shields.io/badge/Focus-Backend%20%2B%20AI-38BDF8?style=for-the-badge" alt="Focus" />
+<img src="https://img.shields.io/badge/Mode-Build%20%3E%20Talk-22C55E?style=for-the-badge" alt="Mode" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ManojKumarC0112&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+<h3>🔎 Quick Navigation</h3>
+
+<a href="#recruiter-scan">Recruiter Scan</a> •
+<a href="#build-map">Build Map</a> •
+<a href="#featured-work">Featured Work</a> •
+<a href="#tech-arsenal">Tech Arsenal</a> •
+<a href="#github-intelligence">GitHub Intelligence</a> •
+<a href="#current-mission">Current Mission</a> •
+<a href="#connect">Connect</a>
+
+</div>
+
+---
+
+## Recruiter Scan
+
+<table>
+  <tr>
+    <td width="55%">
+
+<h3>Who I Am</h3>
+
+<p>
+  I am <b>Manoj Kumar C</b>, a backend-focused developer building practical software across
+  <b>AI, automation, IoT, agriculture tech, assistive technology, and full-stack systems</b>.
+</p>
+
+<p>
+  I care about projects that can be explained in one sentence, used by real people, and improved into scalable products.
+</p>
+
+<h3>What I Am Optimizing For</h3>
+
+<ul>
+  <li><b>Backend depth:</b> APIs, auth, databases, deployment, reliability</li>
+  <li><b>AI product thinking:</b> ML features connected to real workflows</li>
+  <li><b>Prototype velocity:</b> hackathon-style execution without losing structure</li>
+  <li><b>System design:</b> cleaner architecture, maintainable services, scalable thinking</li>
+</ul>
+
+    </td>
+    <td width="45%">
+
+<h3>15-Second Signal</h3>
+
+<pre>
+Primary lane     Backend + AI systems
+Core stack       Django, FastAPI, Python
+Product areas    AgriTech, Assistive Tech, IoT
+Build style      Prototype fast, harden later
+Direction        Strong software engineer
+</pre>
+
+<h3>Currently Sharpening</h3>
+
+<pre>
+APIs              █████████░░
+Django/FastAPI    █████████░░
+Machine Learning  ███████░░░░
+System Design     ███████░░░░
+Full Stack Apps   ████████░░░
+</pre>
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## Build Map
+
+```mermaid
+flowchart LR
+    A["Problem in the real world"] --> B["Prototype fast"]
+    B --> C["Design backend APIs"]
+    C --> D["Add AI / automation layer"]
+    D --> E["Build usable interface"]
+    E --> F["Deploy, test, iterate"]
+    F --> G["Make it reliable and scalable"]
+```
+
+| I Like Building | Why It Matters |
+| --- | --- |
+| **AI assistants** | Turn messy user needs into useful decisions |
+| **Backend systems** | Make products reliable, secure, and maintainable |
+| **IoT prototypes** | Connect software with physical-world problems |
+| **Dashboards and workflows** | Make complex data easier to act on |
+| **Hackathon products** | Compress idea, execution, and demo into one cycle |
+
+---
+
+## Featured Work
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>🌾 Krishi Sakhi</h3>
+      <p><b>AI-powered agriculture assistant</b> focused on practical farmer support and decision-making.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Domain-Agriculture%20Tech-22C55E?style=flat-square" alt="Agriculture tech" />
+        <img src="https://img.shields.io/badge/Focus-AI%20Assistant-38BDF8?style=flat-square" alt="AI assistant" />
+      </p>
+      <a href="https://github.com/ManojKumarC0112?tab=repositories&q=krishi">Explore related repos →</a>
+    </td>
+    <td width="33%">
+      <h3>🦯 Smart Cane</h3>
+      <p><b>Assistive technology concept</b> for visually impaired users, combining sensors, embedded logic, and practical accessibility thinking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Domain-Assistive%20Tech-A855F7?style=flat-square" alt="Assistive tech" />
+        <img src="https://img.shields.io/badge/Focus-IoT-F97316?style=flat-square" alt="IoT" />
+      </p>
+      <a href="https://github.com/ManojKumarC0112?tab=repositories&q=smart">Explore related repos →</a>
+    </td>
+    <td width="33%">
+      <h3>⚡ Hackathon Builds</h3>
+      <p><b>Fast idea-to-demo prototypes</b> using backend APIs, automation, AI integrations, and full-stack workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Mode-Rapid%20Prototype-EC4899?style=flat-square" alt="Rapid prototype" />
+        <img src="https://img.shields.io/badge/Focus-Full%20Stack-0EA5E9?style=flat-square" alt="Full stack" />
+      </p>
+      <a href="https://github.com/ManojKumarC0112?tab=repositories">Browse repositories →</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech Arsenal
+
+<div align="center">
+
+<h3>Core Stack</h3>
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs,js,nextjs,html,tailwind,postgres,mysql,mongodb,redis,docker,git,github,postman,opencv,tensorflow,pytorch,arduino,raspberrypi&perline=11" alt="Skill icons" />
+
+</div>
+
+### Skill Matrix
+
+| Area | Tools | What I Use Them For |
+| --- | --- | --- |
+| **Backend** | Python, Django, Django REST, FastAPI, Flask, Node.js | APIs, auth flows, services, integrations |
+| **Frontend** | JavaScript, Next.js, HTML, Tailwind CSS | Product UI, dashboards, full-stack apps |
+| **AI / ML** | NumPy, Pandas, scikit-learn, TensorFlow, PyTorch, OpenCV | ML workflows, computer vision, data processing |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis, SQLite | Persistence, caching, relational and document data |
+| **Cloud / DevOps** | Docker, Vercel, Render, AWS, Azure, Google Cloud | Deployment, hosting, environment setup |
+| **IoT / Hardware** | Arduino, Raspberry Pi, sensors | Physical prototypes and assistive systems |
+
+<details>
+<summary><b>Expanded Toolbelt</b></summary>
+<br>
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+</details>
+
+---
+
+## GitHub Intelligence
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ManojKumarC0112&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=ManojKumarC0112&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojKumarC0112&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" />
+<img width="45%" src="https://github-profile-trophy.vercel.app/?username=ManojKumarC0112&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3" alt="GitHub trophies" />
+
+<br>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManojKumarC0112&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution graph" />
+
+</div>
+
+---
+
+## Current Mission
+
+<table>
+  <tr>
+    <td width="50%">
+
+<h3>Learning Roadmap</h3>
+
+<ul>
+  <li>Build stronger backend systems with clean API design</li>
+  <li>Improve Django and FastAPI production patterns</li>
+  <li>Connect ML models to useful product workflows</li>
+  <li>Practice system design through real applications</li>
+  <li>Turn hackathon prototypes into polished public repos</li>
+</ul>
+
+    </td>
+    <td width="50%">
+
+<h3>Engineering Principles</h3>
+
+<ul>
+  <li>Build something real before polishing too much</li>
+  <li>Keep APIs understandable and documented</li>
+  <li>Make features useful, not just impressive</li>
+  <li>Prefer simple architecture until complexity is earned</li>
+  <li>Use demos, screenshots, and README docs as proof</li>
+</ul>
+
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>What I want my GitHub to prove</b></summary>
+<br>
+
+```text
+1. I can identify real problems.
+2. I can turn ideas into working software.
+3. I can design backend systems, not just UI screens.
+4. I can use AI where it improves the product.
+5. I can document and present my work clearly.
+```
+
+</details>
+
+---
+
+## Connect
+
+<div align="center">
+
+<h3>I am open to internships, hackathons, backend projects, and AI/full-stack collaborations.</h3>
+
+<a href="mailto:manojkchandrashekar@gmail.com">
+  <img src="https://img.shields.io/badge/Let's%20Talk-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/manoj-kumar-c-">
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/ManojKumarC0112?tab=repositories">
+  <img src="https://img.shields.io/badge/View-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+</a>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,50:0F172A,100:020617" alt="Footer wave" />
+
+</div>
