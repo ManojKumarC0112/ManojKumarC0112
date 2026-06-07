@@ -6,18 +6,10 @@
 
 <br>
 
-<a href="mailto:manojkchandrashekar@gmail.com">
-  <img src="https://img.shields.io/badge/Email-manojkchandrashekar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/manoj-kumar-c-">
-  <img src="https://img.shields.io/badge/LinkedIn-Manoj%20Kumar%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/ManojKumarC0112">
-  <img src="https://img.shields.io/badge/GitHub-ManojKumarC0112-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://instagram.com/Formalfuss">
-  <img src="https://img.shields.io/badge/Instagram-Formalfuss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+<a href="mailto:manojkchandrashekar@gmail.com"><img src="https://img.shields.io/badge/Email-manojkchandrashekar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/manoj-kumar-c-"><img src="https://img.shields.io/badge/LinkedIn-Manoj%20Kumar%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/ManojKumarC0112"><img src="https://img.shields.io/badge/GitHub-ManojKumarC0112-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://instagram.com/Formalfuss"><img src="https://img.shields.io/badge/Instagram-Formalfuss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 <br><br>
 
@@ -31,85 +23,59 @@
 
 <div align="center">
 
-<h3>🔎 Quick Navigation</h3>
+### 🔎 Quick Navigation
 
-<a href="#recruiter-scan">Recruiter Scan</a> •
-<a href="#build-map">Build Map</a> •
-<a href="#featured-work">Featured Work</a> •
-<a href="#tech-arsenal">Tech Arsenal</a> •
-<a href="#github-intelligence">GitHub Intelligence</a> •
-<a href="#current-mission">Current Mission</a> •
-<a href="#connect">Connect</a>
+[Recruiter Scan](#-recruiter-scan) •
+[Featured Work](#-featured-work) •
+[Tech Arsenal](#-tech-arsenal) •
+[GitHub Intelligence](#-github-intelligence) •
+[Current Mission](#-current-mission) •
+[Connect](#-connect)
 
 </div>
 
 ---
 
-## Recruiter Scan
+## 🎯 Recruiter Scan
 
-<table>
-  <tr>
-    <td width="55%">
+> Backend-focused developer building practical software across **AI, automation, IoT, agriculture tech, assistive technology, and full-stack systems**.
 
-<h3>Who I Am</h3>
+| Signal | Details |
+| --- | --- |
+| **Primary lane** | Backend engineering + AI-powered product systems |
+| **Core stack** | Python, Django, FastAPI, APIs, databases |
+| **Product areas** | AgriTech, assistive tech, IoT, automation, full-stack apps |
+| **Build style** | Prototype fast, validate the idea, then improve reliability and UX |
+| **Career direction** | Strong software engineer capable of building useful, scalable products |
 
-<p>
-  I am <b>Manoj Kumar C</b>, a backend-focused developer building practical software across
-  <b>AI, automation, IoT, agriculture tech, assistive technology, and full-stack systems</b>.
-</p>
+### What I Optimize For
 
-<p>
-  I care about projects that can be explained in one sentence, used by real people, and improved into scalable products.
-</p>
+| Backend Depth | AI Product Thinking | Prototype Velocity | System Design |
+| --- | --- | --- | --- |
+| APIs, auth, databases, deployment | ML features tied to real workflows | Hackathon-speed execution | Cleaner architecture and maintainability |
 
-<h3>What I Am Optimizing For</h3>
+### Engineering Strengths
 
-<ul>
-  <li><b>Backend depth:</b> APIs, auth, databases, deployment, reliability</li>
-  <li><b>AI product thinking:</b> ML features connected to real workflows</li>
-  <li><b>Prototype velocity:</b> hackathon-style execution without losing structure</li>
-  <li><b>System design:</b> cleaner architecture, maintainable services, scalable thinking</li>
-</ul>
-
-    </td>
-    <td width="45%">
-
-<h3>15-Second Signal</h3>
-
-<pre>
-Primary lane     Backend + AI systems
-Core stack       Django, FastAPI, Python
-Product areas    AgriTech, Assistive Tech, IoT
-Build style      Prototype fast, harden later
-Direction        Strong software engineer
-</pre>
-
-<h3>Currently Sharpening</h3>
-
-<pre>
-APIs              █████████░░
-Django/FastAPI    █████████░░
-Machine Learning  ███████░░░░
-System Design     ███████░░░░
-Full Stack Apps   ████████░░░
-</pre>
-
-    </td>
-  </tr>
-</table>
+| Area | Signal | What I Bring |
+| --- | --- | --- |
+| APIs | ![API Design](https://img.shields.io/badge/API%20Design-Backend%20Ready-38BDF8?style=for-the-badge) | Clean contracts, validation, auth, integrations |
+| Django / FastAPI | ![Django FastAPI](https://img.shields.io/badge/Django%20%2B%20FastAPI-Core%20Stack-22C55E?style=for-the-badge) | REST APIs, backend services, production-oriented patterns |
+| Machine Learning | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI%20Product%20Layer-A855F7?style=for-the-badge) | Useful ML features, data workflows, model integration |
+| System Design | ![System Design](https://img.shields.io/badge/System%20Design-Scalable%20Thinking-F97316?style=for-the-badge) | Architecture, reliability, maintainability |
+| Full-Stack Apps | ![Full Stack](https://img.shields.io/badge/Full--Stack-Product%20Builder-0EA5E9?style=for-the-badge) | Usable interfaces connected to real backend logic |
 
 ---
 
-## Build Map
+## 🧭 Build Map
 
 ```mermaid
 flowchart LR
-    A["Problem in the real world"] --> B["Prototype fast"]
-    B --> C["Design backend APIs"]
-    C --> D["Add AI / automation layer"]
-    D --> E["Build usable interface"]
-    E --> F["Deploy, test, iterate"]
-    F --> G["Make it reliable and scalable"]
+    A["Real problem"] --> B["Fast prototype"]
+    B --> C["Backend API"]
+    C --> D["AI / automation layer"]
+    D --> E["Usable interface"]
+    E --> F["Deploy and test"]
+    F --> G["Improve reliability"]
 ```
 
 | I Like Building | Why It Matters |
@@ -122,47 +88,34 @@ flowchart LR
 
 ---
 
-## Featured Work
+## 🚀 Featured Work
 
-<table>
-  <tr>
-    <td width="33%">
-      <h3>🌾 Krishi Sakhi</h3>
-      <p><b>AI-powered agriculture assistant</b> focused on practical farmer support and decision-making.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Domain-Agriculture%20Tech-22C55E?style=flat-square" alt="Agriculture tech" />
-        <img src="https://img.shields.io/badge/Focus-AI%20Assistant-38BDF8?style=flat-square" alt="AI assistant" />
-      </p>
-      <a href="https://github.com/ManojKumarC0112?tab=repositories&q=krishi">Explore related repos →</a>
-    </td>
-    <td width="33%">
-      <h3>🦯 Smart Cane</h3>
-      <p><b>Assistive technology concept</b> for visually impaired users, combining sensors, embedded logic, and practical accessibility thinking.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Domain-Assistive%20Tech-A855F7?style=flat-square" alt="Assistive tech" />
-        <img src="https://img.shields.io/badge/Focus-IoT-F97316?style=flat-square" alt="IoT" />
-      </p>
-      <a href="https://github.com/ManojKumarC0112?tab=repositories&q=smart">Explore related repos →</a>
-    </td>
-    <td width="33%">
-      <h3>⚡ Hackathon Builds</h3>
-      <p><b>Fast idea-to-demo prototypes</b> using backend APIs, automation, AI integrations, and full-stack workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Mode-Rapid%20Prototype-EC4899?style=flat-square" alt="Rapid prototype" />
-        <img src="https://img.shields.io/badge/Focus-Full%20Stack-0EA5E9?style=flat-square" alt="Full stack" />
-      </p>
-      <a href="https://github.com/ManojKumarC0112?tab=repositories">Browse repositories →</a>
-    </td>
-  </tr>
-</table>
+| Project | Snapshot | Focus |
+| --- | --- | --- |
+| **🌾 Krishi Sakhi** | AI-powered agriculture assistant for practical farmer support and decision-making | AI, backend APIs, agriculture tech |
+| **🦯 Smart Cane** | Assistive technology concept for visually impaired users using sensor-driven thinking | IoT, accessibility, embedded systems |
+| **⚡ Hackathon Builds** | Fast idea-to-demo prototypes using APIs, automation, AI integrations, and full-stack workflows | Rapid prototyping, full-stack systems |
+
+<details>
+<summary><b>What makes a project worth pinning on my profile</b></summary>
+
+```text
+1. Clear problem statement
+2. Working demo or screenshots
+3. Clean README with setup steps
+4. Backend/API architecture explained
+5. Real-world use case, not just tutorial code
+```
+
+</details>
 
 ---
 
-## Tech Arsenal
+## 🧰 Tech Arsenal
 
 <div align="center">
 
-<h3>Core Stack</h3>
+### Core Stack
 
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs,js,nextjs,html,tailwind,postgres,mysql,mongodb,redis,docker,git,github,postman,opencv,tensorflow,pytorch,arduino,raspberrypi&perline=11" alt="Skill icons" />
 
@@ -181,7 +134,6 @@ flowchart LR
 
 <details>
 <summary><b>Expanded Toolbelt</b></summary>
-<br>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -189,7 +141,6 @@ flowchart LR
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
@@ -203,7 +154,7 @@ flowchart LR
 
 ---
 
-## GitHub Intelligence
+## 📊 GitHub Intelligence
 
 <div align="center">
 
@@ -223,42 +174,18 @@ flowchart LR
 
 ---
 
-## Current Mission
+## 🧪 Current Mission
 
-<table>
-  <tr>
-    <td width="50%">
-
-<h3>Learning Roadmap</h3>
-
-<ul>
-  <li>Build stronger backend systems with clean API design</li>
-  <li>Improve Django and FastAPI production patterns</li>
-  <li>Connect ML models to useful product workflows</li>
-  <li>Practice system design through real applications</li>
-  <li>Turn hackathon prototypes into polished public repos</li>
-</ul>
-
-    </td>
-    <td width="50%">
-
-<h3>Engineering Principles</h3>
-
-<ul>
-  <li>Build something real before polishing too much</li>
-  <li>Keep APIs understandable and documented</li>
-  <li>Make features useful, not just impressive</li>
-  <li>Prefer simple architecture until complexity is earned</li>
-  <li>Use demos, screenshots, and README docs as proof</li>
-</ul>
-
-    </td>
-  </tr>
-</table>
+| Learning Roadmap | Engineering Principles |
+| --- | --- |
+| Build stronger backend systems with clean API design | Build something real before polishing too much |
+| Improve Django and FastAPI production patterns | Keep APIs understandable and documented |
+| Connect ML models to useful product workflows | Make features useful, not just impressive |
+| Practice system design through real applications | Prefer simple architecture until complexity is earned |
+| Turn hackathon prototypes into polished public repos | Use demos, screenshots, and README docs as proof |
 
 <details>
 <summary><b>What I want my GitHub to prove</b></summary>
-<br>
 
 ```text
 1. I can identify real problems.
@@ -272,21 +199,15 @@ flowchart LR
 
 ---
 
-## Connect
+## 🤝 Connect
 
 <div align="center">
 
-<h3>I am open to internships, hackathons, backend projects, and AI/full-stack collaborations.</h3>
+### I am open to internships, hackathons, backend projects, and AI/full-stack collaborations.
 
-<a href="mailto:manojkchandrashekar@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20Talk-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/manoj-kumar-c-">
-  <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/ManojKumarC0112?tab=repositories">
-  <img src="https://img.shields.io/badge/View-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
-</a>
+<a href="mailto:manojkchandrashekar@gmail.com"><img src="https://img.shields.io/badge/Let's%20Talk-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/manoj-kumar-c-"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/ManojKumarC0112?tab=repositories"><img src="https://img.shields.io/badge/View-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 
 <br><br>
 
